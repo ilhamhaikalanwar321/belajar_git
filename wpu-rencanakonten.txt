@@ -3,7 +3,9 @@ rencana  konten wup
 -java scrip
  *es6
  *framwok javascrip
--stuktur dasa dasar
+ 'angular
+ 'react
 -php framework
+'laravel
 -interveiew
 -vlog
