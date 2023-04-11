@@ -1,6 +1,9 @@
 rencana  konten wup 
 
 -java scrip
+ *es6
+ *framwok javascrip
+-stuktur dasa dasar
 -php framework
 -interveiew
 -vlog
