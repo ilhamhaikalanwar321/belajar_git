@@ -3,7 +3,10 @@ rencana  konten wup
 -java scrip
  *es6
  *framwok javascrip
+  'vie
 -stuktur dasa dasar
 -php framework
+'laravel
 -interveiew
 -vlog
+-python
