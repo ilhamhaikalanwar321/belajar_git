@@ -4,6 +4,7 @@ rencana  konten wup
  *es6
  *framwok javascrip
   'vie
+  'reck
 -stuktur dasa dasar
 -php framework
 'laravel
